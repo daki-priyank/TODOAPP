@@ -10,6 +10,7 @@ This is a simple application built with Python and Django that helps me track my
 ## Tech Stack
 * Python
 * Django
+* BOOTSTRAP
 
 
 
